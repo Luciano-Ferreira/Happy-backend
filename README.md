@@ -50,3 +50,11 @@ Inicie a aplicação
 ```
 
 em seguida rode o cliente que desejar [Happy-ReactJS](https://github.com/Luciano-Ferreira/Happy-ReactJS) para web ou [Happy-Mobile](https://github.com/Luciano-Ferreira/Happy-Mobile) para celular.
+
+
+## :memo: License
+This project is under the MIT license. See the [LICENSE](https://github.com/Luciano-Ferreira/Proffy/blob/main/LICENSE) for more information.
+
+---
+
+Made with ♥ by Luciano Silva :wave: [Get in touch!](https://www.linkedin.com/in/lucianof-silva/)
