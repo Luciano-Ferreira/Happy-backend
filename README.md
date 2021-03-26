@@ -3,25 +3,25 @@
 </div>
 
 <p align="center">
-    <img src="./assets/readmegobarbermobile.gif">
-    <img src="./assets/readmegobarberweb.gif">
+    <img src="./assets/readmehappymobile.gif">
+    <img src="./assets/readmehappyreactjs.gif">
 </p>
 
 ## Tecnologias utilizadas
 
-- [NodeJS](https://www.google.de/search?q=nodejs)
-- [cors](https://www.google.de/search?q=cors)
-- [express](https://www.google.de/search?q=express)
-- [sqlite3](https://www.google.de/search?q=sqlite3)
-- [typeorm](https://www.google.de/search?q=typeorm)
-- [yup](https://www.google.de/search?q=yup)
-- [multer](https://www.google.de/search?q=multer)
-- [Typescript](https://www.google.de/search?q=typescript)
-- [ts-node-dev](https://www.google.de/search?q=ts-node-dev)
-- [express-async-errors](https://www.google.de/search?q=express-async-errors)
+- [NodeJS](https://nodejs.org/)
+- [cors](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/CORS)
+- [express](https://expressjs.com/pt-br/)
+- [sqlite3](https://www.sqlite.org/)
+- [typeorm](https://typeorm.io/)
+- [yup](https://github.com/jquense/yup)
+- [multer](https://www.npmjs.com/package/multer)
+- [Typescript](https://www.typescriptlang.org/)
+- [ts-node-dev](https://www.npmjs.com/package/ts-node-dev)
+- [express-async-errors](https://www.npmjs.com/package/express-async-errors)
 
 ## Pré-requisitos
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: [Git](https://www.google.de/search?q=git), [Node.js](https://www.google.de/search?q=nodejs) e um gerenciador de pacotes [Yarn]() ou [npm](). Além disto é bom ter um editor para trabalhar com o código como [VSCode]()
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: [Git](https://git-scm.com/), [Node.js](https://nodejs.org/) e um gerenciador de pacotes [Yarn](https://yarnpkg.com/) ou [npm](https://www.npmjs.com/). Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 ## Rodando a aplicação
 
@@ -49,4 +49,4 @@ Inicie a aplicação
     npm run dev:server
 ```
 
-em seguida rode o cliente que desejar [Happy-ReactJS]() para web ou [Happy-Mobile]() para celular.
+em seguida rode o cliente que desejar [Happy-ReactJS](https://github.com/Luciano-Ferreira/Happy-ReactJS) para web ou [Happy-Mobile](https://github.com/Luciano-Ferreira/Happy-Mobile) para celular.
