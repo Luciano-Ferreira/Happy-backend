@@ -17,7 +17,6 @@
 - [yup](https://github.com/jquense/yup)
 - [multer](https://www.npmjs.com/package/multer)
 - [Typescript](https://www.typescriptlang.org/)
-- [ts-node-dev](https://www.npmjs.com/package/ts-node-dev)
 - [express-async-errors](https://www.npmjs.com/package/express-async-errors)
 
 ## Pré-requisitos
